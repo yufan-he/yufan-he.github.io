@@ -4,20 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student in Mechanical Engineering at the University of Utah and a prosthetist and orthotist certified by ISPO.
+My research focuses on human locomotion biomechanics and musculoskeletal modeling, with a particular interest in how biomechanical insights can inform the design and evaluation of lower-limb prostheses.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- Human locomotion biomechanics and gait analysis
+- Musculoskeletal modeling and simulation
+- Biomechanics-informed design and evaluation of lower-limb prostheses
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jan. 2025]** Joined the Sayu Lab at the University of Utah!
+
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
