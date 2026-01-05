@@ -2,6 +2,8 @@
 layout: homepage
 ---
 
+{% include ga4.html %}
+
 ## About Me
 
 I am a Ph.D. student in Mechanical Engineering at the University of Utah, and I am an ISPO-certified prosthetist and orthotist.
