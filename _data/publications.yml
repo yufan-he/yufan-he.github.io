@@ -1,9 +1,17 @@
 main:
 
+  - title: "Dynamics of Center of Pressure Trajectoryin Gait: Unilateral Transfemoral Amputees Versus Non-Disabled Individuals"
+    authors: <strong>Yufan He</strong>, Mingyu Hu, Abu Jor, Hiroaki Hobara, Fan Gao, Toshiki Kobayashi
+    conference_short: IEEE TNSRE
+    conference: IEEE Transactions on Neural Systems and Rehabilitation Engineering <strong>(IEEE TNSRE)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10478129
+    notes: Published
+    image: ./assets/img/2.png
+
   - title: "Coordination of Lower Limb During Gait in Individuals With Unilateral Transfemoral Amputation"
     authors: Mingyu Hu, <strong>Yufan He</strong>, Genki Hisano, Hiroaki Hobara, Toshiki Kobayashi
     conference_short: IEEE TNSRE
     conference: IEEE Transactions on Neural Systems and Rehabilitation Engineering <strong>(IEEE TNSRE)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10254599
     notes: Published
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/1.png
