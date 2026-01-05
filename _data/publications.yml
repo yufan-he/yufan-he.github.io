@@ -1,5 +1,13 @@
 main:
 
+  - title: "Effects of 3D-printed ankle-foot orthoses on gait: a systematic review"
+    authors: Tasmia Nourin Pollen,Abu Jor, Farhan Munim, <strong>Yufan He</strong>, Aliyeh Daryabor, Fan Gao, Wing-Kai Lam, Toshiki Kobayashi
+    conference_short: Assistive Technology
+    conference: Assistive Technology, 2025.
+    pdf: ./assets/papers/Pollen_2025_Assistive Technology.pdf
+    notes: Published
+    image: ./assets/img/8.png
+
   - title: "Effects of foot orthoses on lower extremity joint kinematics and kinetics in runners with asymptomatic flatfeet: A systematic review and meta-analysis"
     authors: Abu Jor, Noelle W.K. Lau, <strong>Yufan He</strong>, Aliyeh Daryabor, Wing-Kai Lam, Hiroaki Hobara, Fan Gao, Toshiki Kobayashi
     conference_short: Gait & Posture
