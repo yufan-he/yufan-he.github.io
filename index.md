@@ -22,3 +22,9 @@ I care about building models and experiments that are rigorous, but also useful 
 
 
 {% include_relative _includes/publications.md %}
+
+<div style="margin-top: 3em; text-align: center; font-size: 0.95em;">
+  <a href="/about/" style="text-decoration: none;">
+    More about me →
+  </a>
+</div>
