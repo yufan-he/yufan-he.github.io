@@ -1,5 +1,21 @@
 main:
 
+  - title: "Enhancing postural stability and gait in older adults: The role of somatosensory foot orthoses on varied inclined terrains"
+    authors: Abu Jor, Toshiki Kobayashi, Chun Hei Lai, <strong>Yufan He</strong>, Shakawath Hosen Opu, Wing-Kai Lam, Stanley J. Winser, Fan Gao, Ming Zhang
+    conference_short: Assistive Technology
+    conference: Assistive Technology, 2025.
+    pdf: ./assets/papers/Jor_2025_Assistive Technologys.pdf
+    notes: Published
+    image: ./assets/img/10.png
+
+  - title: "Gait classification in individuals with unilateral transfemoral amputation using random forest and k-means clustering"
+    authors: <strong>Yufan He</strong>, Mingyu Hu, Alpha C.H. Lai, Mark W.P. Koh, Hiroaki Hobara, Fan Gao, Toshiki Kobayashi
+    conference_short: Journal of Biomechanics
+    conference: Journal of Biomechanics, 2025.
+    pdf: ./assets/papers/He_2025_Journal of Biomechanics_2.pdf
+    notes: Published
+    image: ./assets/img/9.png
+
   - title: "Effects of 3D-printed ankle-foot orthoses on gait: a systematic review"
     authors: Tasmia Nourin Pollen,Abu Jor, Farhan Munim, <strong>Yufan He</strong>, Aliyeh Daryabor, Fan Gao, Wing-Kai Lam, Toshiki Kobayashi
     conference_short: Assistive Technology
