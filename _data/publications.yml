@@ -1,41 +1,49 @@
 main:
 
+  - title: "Effects of somatosensory-stimulating foot orthoses on postural balance in older adults: A computerized dynamic posturography analysis"
+    authors: Abu Jor, Chun Hei Lai, Mohammad Jobair Khan,<strong>Yufan He</strong>, Wing-Kai Lam, Stanley J. Winser, Fan Gao, Ming Zhang, Toshiki Kobayashi
+    conference_short: Gait & Posture
+    conference: Gait & Posture, 2024.
+    pdf: ./assets/papers/Jor_2024_Gait & Posture.pdf
+    notes: Published
+    image: ./assets/img/6.png
+
   - title: "Effects of articulated ankle–foot orthosis dorsiflexion range of motion on lower-limb joint kinematics during gait in individuals post-stroke"
     authors: <strong>Yufan He</strong>, Mark W.P. Koh, Chloe, L.Y. Wong, Fan Gao, Toshiki Kobayashi
-    conference_short: J. Biomech.
-    conference: Journal of Biomechanics <strong>(J. Biomech.)</strong>, 2024.
-    pdf: ./assets/papers/He_2024_J. Biomech..pdf
+    conference_short: Journal of Biomechanics
+    conference: Journal of Biomechanics, 2024.
+    pdf: ./assets/papers/He_2024_Journal of Biomechanics.pdf
     notes: Published
     image: ./assets/img/5.png
 
   - title: "A proposed evidence-guided algorithm for the adjustment and optimization of multi-function articulated ankle-foot orthoses in the clinical setting"
     authors: Nicholas A. LeCursi, Beatrice M. Janka, Fan Gao, Michael S. Orendurff, <strong>Yufan He</strong>, Toshiki Kobayashi
-    conference_short: Front. Rehabil. Sci.
-    conference: Frontiers in Rehabilitation Sciences <strong>(Front. Rehabil. Sci.)</strong>, 2024.
-    pdf: ./assets/papers/LeCursi_2024_Front. Rehabil. Sci..pdf
+    conference_short: Frontiers
+    conference: Frontiers in Rehabilitation Sciences, 2024.
+    pdf: ./assets/papers/LeCursi_2024_Frontiers.pdf
     notes: Published
     image: ./assets/img/4.png
 
   - title: "Transfemoral prostheticsimulators versus amputees: ground reaction forces and spatio-temporal parameters in gait"
     authors: Toshiki Kobayashi, Abu Jor, <strong>Yufan He</strong>, Mingyu Hu, Mark W.P. Koh, Genki Hisano, Takeshi Hara, Hiroaki Hobara
-    conference_short: R. Soc. Open Sci.
-    conference: Royal Society Open Science <strong>(R. Soc. Open Sci.)</strong>, 2024.
-    pdf: ./assets/papers/Hobara_2024_R. Soc. Open Sci..pdf
+    conference_short: Royal Society
+    conference: Royal Society Open Science, 2024.
+    pdf: ./assets/papers/Hobara_2024_Royal Society.pdf
     notes: Published
     image: ./assets/img/3.png
 
   - title: "Dynamics of Center of Pressure Trajectoryin Gait: Unilateral Transfemoral Amputees Versus Non-Disabled Individuals"
     authors: <strong>Yufan He</strong>, Mingyu Hu, Abu Jor, Hiroaki Hobara, Fan Gao, Toshiki Kobayashi
-    conference_short: IEEE Trans. Neural Syst. Rehabil. Eng.
-    conference: IEEE Transactions on Neural Systems and Rehabilitation Engineering <strong>(IEEE Trans. Neural Syst. Rehabil. Eng.)</strong>, 2024.
-    pdf: ./assets/papers/He_2024_IEEE Trans. Neural Syst. Rehabil. Eng..pdf
+    conference_short: IEEE
+    conference: IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2024.
+    pdf: ./assets/papers/He_2024_IEEE.pdf
     notes: Published
     image: ./assets/img/2.png
 
   - title: "Coordination of Lower Limb During Gait in Individuals With Unilateral Transfemoral Amputation"
     authors: Mingyu Hu, <strong>Yufan He</strong>, Genki Hisano, Hiroaki Hobara, Toshiki Kobayashi
-    conference_short: IEEE Trans. Neural Syst. Rehabil. Eng.
-    conference: IEEE Transactions on Neural Systems and Rehabilitation Engineering <strong>(IEEE Trans. Neural Syst. Rehabil. Eng.)</strong>, 2023.
-    pdf: ./assets/papers/Hu_2023_IEEE Trans. Neural Syst. Rehabil. Eng..pdf
+    conference_short: IEEE
+    conference: IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2023.
+    pdf: ./assets/papers/Hu_2023_IEEE.pdf
     notes: Published
     image: ./assets/img/1.png
