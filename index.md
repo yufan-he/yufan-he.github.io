@@ -16,7 +16,7 @@ I care about building models and experiments that are rigorous, but also useful 
 
 ## News
 
-- **[Dec. 2025]** Submitted an abstract to the World Congress of Biomechanics (WCB) 2025.
+- **[Dec. 2025]** Submitted an abstract to the World Congress of Biomechanics (WCB) 2026.
 - **[Apr. 2025]** Participated in the Rocky Mountain ASB 2025 meeting.
 - **[Jan. 2025]** Joined the Sayu Lab at the University of Utah!
 
