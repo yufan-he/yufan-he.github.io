@@ -1,18 +1,26 @@
 main:
 
-  - title: "Effects of somatosensory-stimulating foot orthoses on postural balance in older adults: A computerized dynamic posturography analysis"
-    authors: Abu Jor, Chun Hei Lai, Mohammad Jobair Khan,<strong>Yufan He</strong>, Wing-Kai Lam, Stanley J. Winser, Fan Gao, Ming Zhang, Toshiki Kobayashi
+  - title: "Effects of foot orthoses on lower extremity joint kinematics and kinetics in runners with asymptomatic flatfeet: A systematic review and meta-analysis"
+    authors: Abu Jor, Noelle W.K. Lau, <strong>Yufan He</strong>, Aliyeh Daryabor, Wing-Kai Lam, Hiroaki Hobara, Fan Gao, Toshiki Kobayashi
     conference_short: Gait & Posture
-    conference: Gait & Posture, 2024.
-    pdf: ./assets/papers/Jor_2024_Gait & Posture.pdf
+    conference: Gait & Posture, 2025.
+    pdf: ./assets/papers/Jor_2025_Gait & Posture_2.pdf
+    notes: Published
+    image: ./assets/img/7.png
+
+  - title: "Effects of somatosensory-stimulating foot orthoses on postural balance in older adults: A computerized dynamic posturography analysis"
+    authors: Abu Jor, Chun Hei Lai, Mohammad Jobair Khan, <strong>Yufan He</strong>, Wing-Kai Lam, Stanley J. Winser, Fan Gao, Ming Zhang, Toshiki Kobayashi
+    conference_short: Gait & Posture
+    conference: Gait & Posture, 2025.
+    pdf: ./assets/papers/Jor_2025_Gait & Posture.pdf
     notes: Published
     image: ./assets/img/6.png
 
   - title: "Effects of articulated ankle–foot orthosis dorsiflexion range of motion on lower-limb joint kinematics during gait in individuals post-stroke"
     authors: <strong>Yufan He</strong>, Mark W.P. Koh, Chloe, L.Y. Wong, Fan Gao, Toshiki Kobayashi
     conference_short: Journal of Biomechanics
-    conference: Journal of Biomechanics, 2024.
-    pdf: ./assets/papers/He_2024_Journal of Biomechanics.pdf
+    conference: Journal of Biomechanics, 2025.
+    pdf: ./assets/papers/He_2025_Journal of Biomechanics.pdf
     notes: Published
     image: ./assets/img/5.png
 
