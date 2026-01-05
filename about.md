@@ -4,6 +4,8 @@ title: More About Me
 permalink: /about/
 ---
 
+{% include ga4.html %}
+
 <div style="
   text-align: center;
   margin-top: 20vh;
