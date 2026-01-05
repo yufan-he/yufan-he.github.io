@@ -1,10 +1,18 @@
 main:
 
+  - title: "Transfemoral prostheticsimulators versus amputees: ground reaction forces and spatio-temporal parameters in gait"
+    authors: Toshiki Kobayashi, Abu Jor, <strong>Yufan He</strong>, Mingyu Hu, Mark W.P. Koh, Genki Hisano, Takeshi Hara, Hiroaki Hobara
+    conference_short: RSOS
+    conference: Royal Society Open Science <strong>(RSOS)</strong>, 2024.
+    pdf: ./assets/papers/Hobara_2024_RSOS.pdf
+    notes: Published
+    image: ./assets/img/3.png
+
   - title: "Dynamics of Center of Pressure Trajectoryin Gait: Unilateral Transfemoral Amputees Versus Non-Disabled Individuals"
     authors: <strong>Yufan He</strong>, Mingyu Hu, Abu Jor, Hiroaki Hobara, Fan Gao, Toshiki Kobayashi
     conference_short: IEEE TNSRE
-    conference: IEEE Transactions on Neural Systems and Rehabilitation Engineering <strong>(IEEE TNSRE)</strong>, 2023.
-    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10478129
+    conference: IEEE Transactions on Neural Systems and Rehabilitation Engineering <strong>(IEEE TNSRE)</strong>, 2024.
+    pdf: ./assets/papers/He_2024_TNSRE.pdf
     notes: Published
     image: ./assets/img/2.png
 
@@ -12,6 +20,6 @@ main:
     authors: Mingyu Hu, <strong>Yufan He</strong>, Genki Hisano, Hiroaki Hobara, Toshiki Kobayashi
     conference_short: IEEE TNSRE
     conference: IEEE Transactions on Neural Systems and Rehabilitation Engineering <strong>(IEEE TNSRE)</strong>, 2023.
-    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10254599
+    pdf: ./assets/papers/Hu_2023_TNSRE.pdf
     notes: Published
     image: ./assets/img/1.png
