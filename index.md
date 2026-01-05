@@ -4,8 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in Mechanical Engineering at the University of Utah and a prosthetist and orthotist certified by ISPO.
-My research focuses on human locomotion biomechanics and musculoskeletal modeling, with a particular interest in how biomechanical insights can inform the design and evaluation of lower-limb prostheses.
+I am a Ph.D. student in Mechanical Engineering at the University of Utah, and I am an ISPO-certified prosthetist and orthotist.
+My training in both engineering research and clinical practice shapes how I approach problems.
+I care about building models and experiments that are rigorous, but also useful in real-world settings, especially for understanding human movement and improving assistive device design.
 
 ## Research Interests
 

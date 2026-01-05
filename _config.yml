@@ -19,8 +19,8 @@ github_link: https://github.com/yufan-he
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.JPG
-favicon: ./assets/img/Logo.png
-favicon_dark: ./assets/img/Logo.png
+favicon: ./assets/img/Logo_light.png
+favicon_dark: ./assets/img/Logo_dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
