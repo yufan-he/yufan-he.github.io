@@ -4,4 +4,6 @@ title: More About Me
 permalink: /about/
 ---
 
-Something awesome is on the way!
+<div style="text-align: center; margin-top: 4em;">
+  <p>Something awesome is on the way!</p>
+</div>
