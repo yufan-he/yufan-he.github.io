@@ -15,6 +15,8 @@ My research focuses on human locomotion biomechanics and musculoskeletal modelin
 
 ## News
 
+- **[Dec. 2025]** Submitted an abstract to the World Congress of Biomechanics (WCB) 2025.
+- **[Apr. 2025]** Participated in the Rocky Mountain ASB 2025 meeting.
 - **[Jan. 2025]** Joined the Sayu Lab at the University of Utah!
 
 
