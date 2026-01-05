@@ -23,8 +23,15 @@ I care about building models and experiments that are rigorous, but also useful 
 
 {% include_relative _includes/publications.md %}
 
-<div style="margin-top: 3em; text-align: center; font-size: 0.95em;">
-  <a href="/about/" style="text-decoration: none;">
-    More about me →
+<div style="margin-top: 3em; text-align: center;">
+  <a href="/about/" style="
+    display: inline-block;
+    padding: 6px 14px;
+    border: 1px solid #bbb;
+    border-radius: 20px;
+    font-size: 0.9em;
+    text-decoration: none;
+  ">
+    More about me
   </a>
 </div>
